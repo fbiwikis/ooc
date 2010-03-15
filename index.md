@@ -1,1 +1,1 @@
-This is the wiki for the awesome ooc programming language!
+This is the wiki for the very awesome ooc programming language!
